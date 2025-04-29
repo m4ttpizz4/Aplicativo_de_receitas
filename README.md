@@ -1,4 +1,4 @@
-# Receitas
+# Aplicativo de Receitas
 Atividade de programação de aplicativos mobile em android.
 
 ### Colaboradores:
